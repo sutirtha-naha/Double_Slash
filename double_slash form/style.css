@@ -54,6 +54,7 @@ main {
   grid-template-columns: 1fr;
   grid-template-rows: 1fr;
   transition: 0.8s ease-in-out;
+  margin-top: 70px;
 }
 
 form {
